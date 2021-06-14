@@ -1,0 +1,84 @@
+/* navbar */
+.navbar {
+    z-index: 999;
+    color: rgba(0,0,0,0.5);
+}
+
+
+
+/* Banner */
+#banner {
+    margin-top: 100px;
+}
+
+.carousel img {
+    height: 100%;
+}
+
+.navbar img {
+    width: 30px;
+    height: 30px;
+} 
+
+.iklan2 img{
+    width: 100%;
+}
+
+.iklan3 img{
+    width: 100%;
+}
+
+
+/* main-content */
+#main-content h3 {
+    margin-bottom: 50px;
+}
+
+#main-content {
+    margin-top: 100px;
+}
+
+#main-content .btn {
+    font-size: 12px;
+}
+
+#main-content .row {
+    margin-bottom: 50px;
+}
+
+#main-content .container .row .card {
+    height: 400px;
+}
+
+#main-content .container .row .card h5{
+    height: 70px;
+}
+
+/* footer */
+footer {
+    background-color: rgba(200, 200, 200, 1);
+    height: 250px;
+    padding: 50px;
+  
+}
+
+footer a {
+    color: white;
+}
+
+footer form {
+    margin-top: 20px;
+} 
+
+footer .row img {
+    margin-top: 10px;
+    width: 40px;
+} 
+
+footer #socmed {
+    display: inline;
+}
+
+#copyright {
+    margin-top: 70px;
+}
