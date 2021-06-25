@@ -1,0 +1,29 @@
+.layout-payment {
+    margin: 100px auto;
+    width: 700px;
+}
+
+.img-wid {
+    width: 70px;
+}
+
+.alert {
+    width: 100% !important;
+}
+
+p {
+    margin-bottom: 5px;
+    display: block;
+}
+
+.split {
+    display: block;
+    margin: 10px;
+}
+
+.split span {
+    display: block;
+    float: right;
+    width: 50%;
+    margin-left: 10px;
+}
