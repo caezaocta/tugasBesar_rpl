@@ -11,3 +11,31 @@
 .deskripsi p {
     margin-bottom: 0;
 }
+
+footer {
+    background-color: rgba(200, 200, 200, 1);
+    height: 250px;
+    padding: 50px;
+    margin-top: 148px;
+}
+
+footer a {
+    color: white;
+}
+
+footer form {
+    margin-top: 20px;
+} 
+
+footer .row img {
+    margin-top: 10px;
+    width: 40px;
+} 
+
+footer #socmed {
+    display: inline;
+}
+
+#copyright {
+    margin-top: 70px;
+}
