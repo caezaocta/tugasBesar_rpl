@@ -1,8 +1,6 @@
 body {
     color: #566787;
     background: #f5f5f5;
-    font-family: 'Varela Round', sans-serif;
-    font-size: 13px;
 }
 
 .table-responsive {
@@ -255,4 +253,33 @@ table.table .avatar {
     float: left;
     margin-top: 10px;
     font-size: 13px;
+}
+
+footer {
+    background-color: rgba(200, 200, 200, 1);
+    height: 250px;
+    padding: 50px;
+    margin-top: 130px;
+}
+
+footer a {
+    color: white;
+}
+
+footer form {
+    margin-top: 20px;
+} 
+
+footer .row img {
+    margin-top: 10px;
+    width: 40px;
+} 
+
+footer #socmed {
+    display: inline;
+}
+
+#copyright {
+    margin-top: 70px;
+    text-align: center;
 }
